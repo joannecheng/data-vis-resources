@@ -1,1 +1,3 @@
 # Data Visualization Resources
+* [exercises.mkd](exercises)
+* [papers.mkd](papers)
