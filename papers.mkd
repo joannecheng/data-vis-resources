@@ -1,7 +1,7 @@
 # Papers
 
-[UW Interactive Data Lab](http://idl.cs.washington.edu/papers/)
-[Berkeley Vis Lab Papers](http://vis.berkeley.edu/papers/)
+*[UW Interactive Data Lab](http://idl.cs.washington.edu/papers/)
+*[Berkeley Vis Lab Papers](http://vis.berkeley.edu/papers/)
 
 ## Favorites include
 * [Predictive Interaction for Data Transformation](http://idl.cs.washington.edu/papers/predictive-interaction) [my notes](#)
