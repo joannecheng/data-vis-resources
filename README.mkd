@@ -1,3 +1,5 @@
 # Data Visualization Resources
 * [Exercises](exercises.mkd)
 * [Papers](papers.mkd)
+* [Blog Posts](blog_posts.mkd)
+* [Talks](talks.mkd)

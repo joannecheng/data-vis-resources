@@ -1,0 +1,10 @@
+# Blog Posts
+
+## Design
+* [Architecture of a Data Visualization](https://medium.com/accurat-studio/the-architecture-of-a-data-visualization-470b807799b4)
+Giorgia Luipi
+
+## Development (Web)
+
+## Development (Python)
+* [St. Louis Ice Cover Exploration](http://nbviewer.ipython.org/gist/chryss/0e7894d9dc78a0c31708)

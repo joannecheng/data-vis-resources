@@ -1,0 +1,4 @@
+# Talks
+
+* [Data I paint with](https://vimeo.com/70666303) Giorgi Luipi, eyeo 2013
+* [Weight of Rain](http://style.org/visualized/) Jonathan Corum, Visualized 2014
