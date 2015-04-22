@@ -1,5 +1,6 @@
 # Talks
 
-* [Data I paint with](https://vimeo.com/70666303) Giorgi Luipi, eyeo 2013
 * [Weight of Rain](http://style.org/visualized/) Jonathan Corum, Visualized 2014
-* [Printing Code](https://vimeo.com/61113159) Rune Madsen, Printing Code, Heroku's Waza 2013
+* [Mapping Billions of Dots](https://youtu.be/sqXArLn0pOY) Eric Fischer, OpenVisConf 2014
+* [Printing Code](https://vimeo.com/61113159) Rune Madsen, Heroku's Waza 2013
+* [Data I paint with](https://vimeo.com/70666303) Giorgi Luipi, eyeo 2013
