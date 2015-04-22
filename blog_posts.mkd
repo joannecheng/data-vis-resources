@@ -1,10 +1,17 @@
 # Blog Posts
 
 ## Design
-* [Architecture of a Data Visualization](https://medium.com/accurat-studio/the-architecture-of-a-data-visualization-470b807799b4)
+* [Architecture of a Data Visualization](https://medium.com/accurat-studio/the-architecture-of-a-data-visualization-470b807799b4) _design_
 Giorgia Luipi
 
-## Development (Web)
+## Development (Web - D3.js)
+* [Let's Make a Map](http://bost.ocks.org/mike/map/) _geo_ _d3.js_
+* [Flight Animation with D3.js](http://www.tnoda.com/blog/2014-04-02) _geo_ _d3.js_
+* [Animated Bubble Charts in D3](http://vallandingham.me/bubble_charts_in_d3.html) _d3.js_
+* [So You Want to Build A Scroller](http://vallandingham.me/scroller.html) _d3.js_
 
-## Development (Python)
-* [St. Louis Ice Cover Exploration](http://nbviewer.ipython.org/gist/chryss/0e7894d9dc78a0c31708)
+## Development (Web - Python)
+
+## Development (iPython Notebook)
+* [St. Louis Ice Cover Exploration](http://nbviewer.ipython.org/gist/chryss/0e7894d9dc78a0c31708) _ipython
+* [Matplotlib Basemap Tutorial: Plotting Points on a Simple Map](https://peak5390.wordpress.com/2012/12/08/matplotlib-basemap-tutorial-plotting-points-on-a-simple-map/)
